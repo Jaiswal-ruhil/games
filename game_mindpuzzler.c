@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include"/home/ruhil/Dropbox/programming/headers/user.h"
+#include"user.h"
 
 int random_matrix(int *arr,int seed);
 int get_seed();
